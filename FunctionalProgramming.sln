@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "Lambda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncDelegate", "Func\FuncDelegate.csproj", "{9D583CA1-B074-4095-AA93-694E9646172A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionDelegate", "ActionDelegate\ActionDelegate.csproj", "{EF77BB9A-D5F9-4E4B-99AC-B6F45CD8F748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9D583CA1-B074-4095-AA93-694E9646172A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D583CA1-B074-4095-AA93-694E9646172A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D583CA1-B074-4095-AA93-694E9646172A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF77BB9A-D5F9-4E4B-99AC-B6F45CD8F748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF77BB9A-D5F9-4E4B-99AC-B6F45CD8F748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF77BB9A-D5F9-4E4B-99AC-B6F45CD8F748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF77BB9A-D5F9-4E4B-99AC-B6F45CD8F748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
