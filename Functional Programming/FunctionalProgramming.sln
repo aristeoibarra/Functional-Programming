@@ -13,19 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lambda exercises", "lambda exercises", "{EF23D7EB-6E69-42B8-9D3F-2D9F3B880A95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{D15C0DF4-0BBA-4C98-8746-AB103CCA2268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1", "Exercise1\Exercise1.csproj", "{D15C0DF4-0BBA-4C98-8746-AB103CCA2268}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "Exercise2\Exercise2.csproj", "{3A62DA89-B7B8-409B-BCC8-07BC3449A85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Exercise3\Exercise3.csproj", "{544A4BBE-2FFB-45E9-B87B-EF4FF84DA1F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Exercise3\Exercise3.csproj", "{544A4BBE-2FFB-45E9-B87B-EF4FF84DA1F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "Exercise4\Exercise4.csproj", "{FCC120BB-30B7-4DF3-8560-6788BC016B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise4", "Exercise4\Exercise4.csproj", "{FCC120BB-30B7-4DF3-8560-6788BC016B74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise5", "Exercise5\Exercise5.csproj", "{CB46C6CE-659A-4883-9977-183E1FA05A6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise5", "Exercise5\Exercise5.csproj", "{CB46C6CE-659A-4883-9977-183E1FA05A6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise6", "Exercise6\Exercise6.csproj", "{8736335E-F888-4EFF-A2D4-40BBB20826BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise6", "Exercise6\Exercise6.csproj", "{8736335E-F888-4EFF-A2D4-40BBB20826BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise7", "Exercise7\Exercise7.csproj", "{FFD963B4-6525-434F-96C8-8F2B57F68988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise7", "Exercise7\Exercise7.csproj", "{FFD963B4-6525-434F-96C8-8F2B57F68988}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
